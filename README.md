@@ -21,9 +21,9 @@ This data is processed to help health professionals understand the effectiveness
 ### Summary of project implementation process : 
 - Import and clean data
 - Generate hypotheses around the dataset, apply statistical testing and visualization methods to test the hypotheses
-- Apply machine learning models to the classification problem , find and consider for factors that influence to the effect of exercises the most simultaneously
+- Apply machine learning models to the classification problem . Find and consider for factors that influence to the effect of exercises the most 
 #### Project process (R-markdown) : 
-[View full code and result at ](https://khanhvierus.github.io/The-effects-of-exercise-on-human-health/)
+[View full code and result here ](https://khanhvierus.github.io/The-effects-of-exercise-on-human-health/)
 #### Project report (PDF) :
 [View Project report here ](Project_Report_Final.pdf)
 
